@@ -2,9 +2,7 @@
 
 Welcome to the Volatility Prediction Project! This project aims to create a robust system for forecasting stock market volatility, a critical component for financial analysis and decision-making. By leveraging advanced statistical models and modern technologies, this project helps investors assess risk and make informed trading decisions.
 
-[App](https://github.com/user-attachments/assets/99a21bc4-380e-4fbf-ae61-c31117bbac48)
-
-
+[App](https://github.com/user-attachments/assets/79f04237-33d2-4ab6-9520-de8c4ff860a7)
 
 Before diving into the core components, it's essential to understand the configuration module that manages key settings such as API keys and database paths, ensuring that the system operates smoothly across different environments.
 
